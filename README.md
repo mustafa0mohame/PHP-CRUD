@@ -1,6 +1,9 @@
 # PHP-CRUD
+
 Creating the Database Table
+
 Create a table named crud inside your MySQL database using the following code.
+
 CREATE TABLE `crud` (
   `id` int(255) NOT NULL AUTO_INCREMENT,
   `first_name` varchar(255) NOT NULL,
